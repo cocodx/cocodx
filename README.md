@@ -10,7 +10,7 @@
 
   ![SpringCloud](https://img.shields.io/badge/Vue3-%23007ACC.svg?style=for-the-badge&logo=Vue.js&logoColor=white&color=#5aab87)
   ![SpringCloud-alibaba](https://img.shields.io/badge/-springcloud-%2320232a?style=for-the-badge&logo=spring)
-  ![Log](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Log](https://img.shields.io/badge/-rabbitmq-%23007acc?style=for-the-badge&logo=rabbitmq)
   ![Vite](https://img.shields.io/badge/-springboot-%238976ff?style=for-the-badge&logo=springboot)
 
   
