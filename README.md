@@ -11,7 +11,7 @@
   ![SpringCloud](https://img.shields.io/badge/Vue3-%23007ACC.svg?style=for-the-badge&logo=Vue.js&logoColor=white&color=#5aab87)
   ![SpringCloud-alibaba](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Log](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Vite](https://img.shields.io/badge/vite-%23007ACC.svg?style=for-the-badge&logo=vite&logoColor=white&color=8976ff)
+  ![Vite](https://img.shields.io/badge/-springboot-%238976ff?style=for-the-badge&logo=springboot)
 
   
 
