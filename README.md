@@ -20,4 +20,4 @@
   - **QQ &** **WeChat**: 18162775609
   - **E-mail** : 2cevening@gmail.com
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cocodx&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cocodx&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
