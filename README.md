@@ -21,3 +21,5 @@
   - **E-mail** : 2cevening@gmail.com
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cocodx&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cocodx&repo=Java-doc)](https://github.com/anuraghazra/github-readme-stats)
