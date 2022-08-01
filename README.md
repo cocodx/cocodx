@@ -12,7 +12,7 @@
   ![SpringCloud-alibaba](https://img.shields.io/badge/-springcloud-%2320232a?style=for-the-badge&logo=spring)
   ![Log](https://img.shields.io/badge/-rabbitmq-%23007acc?style=for-the-badge&logo=rabbitmq)
   ![Vite](https://img.shields.io/badge/-springboot-%238976ff?style=for-the-badge&logo=springboot)
-  ![JavaWeb](https://img.shields.io/badge/-Javaweb-%2320232a?style=for-the-badge&logo=html5&logoColor=white&color=#e963a6)
+  ![JavaWeb](https://img.shields.io/badge/Javaweb-orange?style=for-the-badge&logo=html5&logoColor=white&color=important)
 
   
 
