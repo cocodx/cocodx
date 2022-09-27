@@ -1,5 +1,6 @@
 ### Hey! This is `LiuGang / 阿刚` 😋
 
+> I was borned and rised in a small town China
 > A Back end developer from **ShenZhen, China**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
